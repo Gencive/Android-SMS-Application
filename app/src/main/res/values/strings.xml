@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Serge</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Options</string>
+    <string name="title_activity_add_contact">Create a contact</string>
+    <string name="error">Error</string>
+
+    <!-- MainActivity -->
+
+    <!-- AddContactActivity -->
+    <string name="hint_lastname">Last Name</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_number">Phone number</string>
+    <string name="hint_email">Email address</string>
+    <string name="hint_adress">Adresse</string>
+    <string name="save">SAVE</string>
+    <string name="choose_picture_dialog">Select a picture</string>
+    <string name="empty_field_error">This field can\'t be empty</string>
+    <string name="contact_saved">The contact have been saved</string>
+    <string name="title_activity_show_contact">ShowContactActivity</string>
+
+    <!-- ShowContactActivity -->
+    <string name="title_activity_edit_contact">Edition of contact</string>
+
+    <!-- EditContactActivity -->
+    <string name="modification_save">Modification saved</string>
+
+    <!-- ChatActivity -->
+    <string name="me">Me</string>
+
+    <!-- preference.xml -->
+    <string name="select_color_title">Select the color</string>
+    <string name="select_color_summary">Select the header color</string>
+
+    <string name="title_activity_preference">PreferenceActivity</string>
+    <string name="title_activity_chat">ChatActivity</string>
+
+</resources>

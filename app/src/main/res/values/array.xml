@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="select_picture">
+        <item>Select a picture</item>
+        <item>Pick a picture</item>
+    </array>
+    <string-array name="preference_color">
+        <item>Green</item>
+        <item>Red</item>
+        <item>Yellow</item>
+    </string-array>
+    <string-array name="preference_color_value">
+        <item>#009330</item>
+        <item>#FF5252</item>
+        <item>#FFC107</item>
+    </string-array>
+</resources>
