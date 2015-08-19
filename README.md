@@ -1,8 +1,8 @@
 # Android-SMS-Application
 
-Il s'agit d'un projet que j'ai cree pour les etudiants et valide par l'equipe pedagogique durant mon curses a 42.
+Il s'agit d'un projet que j'ai créé pour les étudiants et validé par l'équipe pédagogique durant mon cursus à 42.
 
-Le but du sujet est de familiariser les etudiants avec le système Android en réalisant une application de gestion de contacts
+Le but du sujet est de familiariser les étudiants avec le système Android en réalisant une application de gestion de contacts, d'envoi et de réception de SMS.
 
 ## Sujet
 
